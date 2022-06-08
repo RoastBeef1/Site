@@ -86,4 +86,5 @@ html {
     margin-left: 15px;
     margin-right: 15px;
     transition: 500ms;
+    cursor: pointer;
 }
