@@ -8,6 +8,13 @@ html {
     user-select: none;
 }
 
+#boxes {
+    position: absolute;
+    top: -36px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
 #boxes a {
     background-color: rgb(1, 114, 76);
     padding: 15px;
