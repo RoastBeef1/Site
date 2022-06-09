@@ -10,7 +10,7 @@ html {
 
 #header {
     animation: color-change 3s infinite;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
 }
   
 @keyframes color-change {
